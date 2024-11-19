@@ -232,7 +232,9 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.64px;
 }
-
+.features-container {
+  margin-bottom: 8px;
+}
 .features {
   padding: 120px 0;
 }
