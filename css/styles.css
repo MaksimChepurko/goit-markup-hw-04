@@ -566,3 +566,8 @@ overflow: hidden;
 .icon-footer-link:focus {
   background-color: #31d0aa;
 }
+.footer-icon {
+  left: 12px;
+  top: 12px;
+  fill: #f4f4fd;
+}
